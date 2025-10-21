@@ -1,8 +1,20 @@
-body {
-    display: block; 
-    margin: 0;
-    padding: 0 2rem; 
 
+body {
+    background-image: url('bakgrund.webp'); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+
+
+
+
+
+html, body {
+    height: 100%;
+    margin: 0; 
+    padding: 1rem; 
 }
 
 header {
@@ -16,7 +28,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   display: inline-block;
-  margin: 0; 
+  margin:0; 
 }
 
 
@@ -37,6 +49,10 @@ h1 {
     color: #4EBBE4; 
 }
 
+.color3{
+    color: #255C89;
+}
+
 main {
     border: none;
     padding: 1rem;
@@ -45,9 +61,38 @@ main {
     width: 10rem;
 }
 
+.surv{
+margin-top: 0;
+color: grey;
+    font-size: smaller;
+     font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  
+}
+
+.rubrik2{
+    font-size: x-large;
+    text-decoration: underline;
+    text-decoration: underline #F79C42
+    
 
 
+}
+.pda1{
+    max-width: 2.5rem;
 
+}
+
+.kontakt{
+    font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+ margin-left: -2.5rem;
+ color: #99FFFF;
+}
 
 
 

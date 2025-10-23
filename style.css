@@ -94,6 +94,44 @@ color: grey;
  color: #99FFFF;
 }
 
+.rubrik3 {
+    font-size: x-large;
+    text-decoration: underline;
+    text-decoration: underline #F79C42
 
 
+}
+.color4{
+
+        font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+ margin-left: -1.rem;
+ color: #255C89;
+}
+
+.jobblogo{
+      max-width: 2.5rem;
+
+
+}
+.working{
+
+   font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+ 
+ color: #99FFFF;
+}
+.workin1{
+
+       font-family: "Days One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+ margin-left: -1.5rem;
+ color: #99FFFF;
+}
 

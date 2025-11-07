@@ -1,9 +1,9 @@
-
 body {
-    background-image: url('bakgrund.webp'); 
+    background-image: url('bakgrund.webp');
     background-size: cover;
-    background-repeat: no-repeat; 
-    background-position: center; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
 }
 
 
@@ -11,45 +11,47 @@ body {
 
 
 
-html, body {
+html,
+body {
     height: 100%;
-    margin: 0; 
-    padding: 1rem; 
+    margin: 0;
+    padding: 1rem;
+    padding-bottom: 5rem;
 }
 
 header {
-    display: flex; 
-    align-items: center; 
-    gap: 0.5rem; 
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 h1 {
-  font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  display: inline-block;
-  margin:0; 
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+    margin: 0;
 }
 
 
- img {
-    display: inline-block; 
+img {
+    display: inline-block;
     margin-left: 0.5rem;
-    vertical-align: middle; 
+    vertical-align: middle;
     max-height: 4rem;
     border-radius: 50px;
 }
 
 
 .color1 {
-    color: #F79C42; 
+    color: #F79C42;
 }
 
 .color2 {
-    color: #4EBBE4; 
+    color: #4EBBE4;
 }
 
-.color3{
+.color3 {
     color: #255C89;
 }
 
@@ -61,145 +63,89 @@ main {
     width: 10rem;
 }
 
-.surv{
-margin-top: 0;
-color: grey;
+.surv {
+    margin-top: 0;
+    color: grey;
     font-size: smaller;
-     font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
-  
+
 }
 
-.rubrik2{
+.rubrik2 {
     font-size: x-large;
     text-decoration: underline;
     text-decoration: underline #F79C42
-    
-
-
 }
-.pda1{
+
+.pda1 {
     max-width: 2.5rem;
 
 }
 
-.kontakt{
+.text {
     font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- margin-left: -2.5rem;
- color: #99FFFF;
+    font-weight: 400;
+    font-style: normal;
+
+    margin-left: -2.5rem;
+    color: #99FFFF;
 }
 
 .rubrik3 {
     font-size: x-large;
     text-decoration: underline;
     text-decoration: underline #F79C42
+}
+
+.color4 {
+
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    margin-left: -1.rem;
+    color: #255C89;
+}
+
+.jobblogo {
+    max-width: 2.5rem;
 
 
 }
-.color4{
-
-        font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- margin-left: -1.rem;
- color: #255C89;
-}
-
-.jobblogo{
-      max-width: 2.5rem;
 
 
-}
-.working{
 
-   font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- 
- color: #99FFFF;
-}
-.workin1{
-
-       font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- margin-left: -1.5rem;
- color: #99FFFF;
-}
-
-.working2{
-
-   font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- 
- color: #99FFFF;
- margin-left: -2.5rem;
-}
 
 .rubrik3 {
     font-size: x-large;
     text-decoration: underline;
     text-decoration: underline #F79C42
-
-
-}
-.color4{
-
-        font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- margin-left: -1.rem;
- color: #255C89;
 }
 
+.color4 {
 
-.working{
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
-   font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- 
- color: #99FFFF;
-}
-.workin1{
-
-       font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- margin-left: -1.5rem;
- color: #99FFFF;
+    margin-left: -1.rem;
+    color: #255C89;
 }
 
-.working2{
+.edu {
 
-   font-family: "Days One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  
- 
- color: #99FFFF;
- 
+    max-width: 2.5rem;
+
 }
 
+.underrubrik {
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
 
-
-
-.edu{
-
- max-width: 2.5rem;
-
+    color: #99FFFF;
 }
